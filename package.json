@@ -11,7 +11,7 @@
     "js"
   ],
   "author": "moyadf",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "babel-loader": "^8.1.0",
